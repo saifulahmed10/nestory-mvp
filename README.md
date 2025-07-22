@@ -13,18 +13,3 @@ Nestory is a community-focused web app that helps people request support and fin
 - Color-coded map markers by support type (Food Bank, Warm Space, Healthy Start, etc.)
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.10+ (recommended)
-- `pip` package manager
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/nestory-mvp.git
-   cd nestory-mvp
